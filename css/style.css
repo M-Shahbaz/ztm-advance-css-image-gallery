@@ -1,0 +1,32 @@
+/*Selector {
+	property: value;
+}*/
+body {
+	background-image: url(backgroundimage.jpg);
+	background-size: cover;
+}
+
+
+h2, p {
+	color: #AA4F39;
+	text-align: center;
+	border: 5px solid rgba(85, 0, 0, 0.5);
+	cursor: pointer;
+}
+
+p {
+	color: pink;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext {
+	border: 5px dashed green;
+}
+
+.active {
+	color: red;
+}
